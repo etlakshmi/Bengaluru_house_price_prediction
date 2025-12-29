@@ -6,6 +6,11 @@ A machine learning project to predict house prices in Bengaluru based on feature
 
 This project uses various regression models to predict real estate prices in Bengaluru. The model is trained on the Bengaluru House Data dataset and implements comprehensive data cleaning, outlier removal, and feature engineering techniques.
 
+## Demo
+
+Below is a short demonstration of the Bengaluru House Price Prediction system in action:
+![Bengaluru House Price Prediction Demo](Bengaluru_house_price_prediction.gif)
+
 ## Features
 
 - **Data Cleaning**: Handles missing values, converts mixed formats, and extracts meaningful features
